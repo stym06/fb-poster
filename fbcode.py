@@ -12,7 +12,7 @@ import datetime
 
 # Insert your access token here.  You can get a temporary one
 # here: https://developers.facebook.com/tools/explorer/
-access_token = 'EAACEdEose0cBABLLAzh4415v3IAu4ZC65S4oZAclTiPsZACLqQhZBxeduED2z605xHAwYrWiWZCVwcreBDYqQKRrcu764Lu5qCS7OD548FQkN5aLjh7TSCVfeougqGm9O6ONHvxZANgkN7oSfL7xQezKSMZAm4lmLnwaQbfSMEvfyYcHgBWHtyuyscrschUGMgZD'
+access_token = 'your access toke here'
 # Fetch contents of your own wall by setting user to me
 user = 'me'
 # Set your birthday here in the same format:
